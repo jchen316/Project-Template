@@ -1,1 +1,12 @@
-node_modules
+
+# Optional npm cache directory
+.npm
+
+# npm
+package-lock.json
+bundle.js
+config.js
+
+# Dependency directories
+node_modules/
+jspm_packages/
